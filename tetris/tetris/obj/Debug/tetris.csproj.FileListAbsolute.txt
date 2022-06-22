@@ -1,0 +1,11 @@
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\bin\Debug\Tetris.exe.config
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\bin\Debug\Tetris.exe
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\bin\Debug\Tetris.pdb
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\tetris.csproj.AssemblyReference.cache
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\tetris.csproj.SuggestedBindingRedirects.cache
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\Tetris.MainWindow.resources
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\Tetris.exe
+C:\Users\razzy\OneDrive\Рабочий стол\КУРСОВА РОБОТА\tetris\tetris\obj\Debug\Tetris.pdb
